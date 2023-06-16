@@ -7,7 +7,12 @@
 2. (https://drive.google.com/file/d/1yTkInQohWATWTGEPRSbssUcwN-XHOYUi/view?usp=sharing)
 ### Finalised Dataset:
 1. (https://drive.google.com/file/d/1Xg3maqT7DF2_fERBgSec40hg3p77Ol-3/view?usp=sharing)
-### Link to task and teamwork-- (https://docs.google.com/spreadsheets/d/1tMre8UNJqdeX8KFFW42fuv5jOrs3XVFXRoBGNfv6q4M/edit?usp=sharing)
+### Link to task and teamwork-- 
+#### Work Distribution:
+(https://docs.google.com/spreadsheets/d/1tMre8UNJqdeX8KFFW42fuv5jOrs3XVFXRoBGNfv6q4M/edit?usp=sharing)
+#### Documentation link:
+(https://docs.google.com/document/d/1LLTLV17rAy2x77KUaWQhO-3AxZ_4zk9hTKhBmhTbmgo/edit?usp=sharing)
+#### Presentation Link:
 
 ## Project Description:
 
