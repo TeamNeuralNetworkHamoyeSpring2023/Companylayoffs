@@ -1,8 +1,8 @@
 # Team-Neural Network 
 ## Premier Project- Hamoye Spring 2023
 ## Topic: Technology company layoff (2022–2023)
-### Link to Datasets-- 
-###Refrence:
+## Link to Datasets-- 
+### Refrence:
 1. (https://drive.google.com/file/d/1BWvuitZCwwV2aaK6CAO0kpW3_BgNgk00/view?usp=sharing)
 2. (https://drive.google.com/file/d/1yTkInQohWATWTGEPRSbssUcwN-XHOYUi/view?usp=sharing)
 ### Finalised Dataset:
