@@ -2,12 +2,12 @@
 ## Premier Project- Hamoye Spring 2023
 ## Topic: Technology company layoff (2022–2023)
 ## Link to Datasets-- 
-### Refrence:
+### Reference:
 1. (https://drive.google.com/file/d/1BWvuitZCwwV2aaK6CAO0kpW3_BgNgk00/view?usp=sharing)
 2. (https://drive.google.com/file/d/1yTkInQohWATWTGEPRSbssUcwN-XHOYUi/view?usp=sharing)
 ### Finalised Dataset:
 1. (https://drive.google.com/file/d/1Xg3maqT7DF2_fERBgSec40hg3p77Ol-3/view?usp=sharing)
-### Link to task and team work-- (https://docs.google.com/spreadsheets/d/1tMre8UNJqdeX8KFFW42fuv5jOrs3XVFXRoBGNfv6q4M/edit?usp=sharing)
+### Link to task and teamwork-- (https://docs.google.com/spreadsheets/d/1tMre8UNJqdeX8KFFW42fuv5jOrs3XVFXRoBGNfv6q4M/edit?usp=sharing)
 
 ## Project Description:
 
