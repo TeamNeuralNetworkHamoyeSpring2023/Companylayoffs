@@ -20,15 +20,26 @@ From Amazon, Microsoft, and Google to Wayfair, the technology industry is curren
 
 ## Team Members:-
 *Team Lead* --Bronch Mukami
+
 *Assitant Team Lead* --Dipeolu Ayomide
+
 *Query Analyst* --Pragati Thakur
+
 #### Other Active Members:-
 Abdulafeez Adefabi
+
 Ajaero Solomon
+
 Nidhey Shah
+
 Gloriah Munyao
+
 Faith Were
+
 Christiana Otoboh
+
 Blessing Ukpai
+
 Sunday James
+
 Eben Iyela
