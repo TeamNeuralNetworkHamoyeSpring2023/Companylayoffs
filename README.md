@@ -19,3 +19,16 @@
 From Amazon, Microsoft, and Google to Wayfair, the technology industry is currently shaken by massive layoffs since mid-2022, we are using this data to gain insights on technology industry trends to make informed decisions for our career or business.
 
 ## Team Members:-
+*Team Lead* --Bronch Mukami
+*Assitant Team Lead* --Dipeolu Ayomide
+*Query Analyst* --Pragati Thakur
+#### Other Active Members:-
+Abdulafeez Adefabi
+Ajaero Solomon
+Nidhey Shah
+Gloriah Munyao
+Faith Were
+Christiana Otoboh
+Blessing Ukpai
+Sunday James
+Eben Iyela
