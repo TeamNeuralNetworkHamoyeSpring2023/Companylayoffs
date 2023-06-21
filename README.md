@@ -14,6 +14,8 @@
 (https://docs.google.com/document/d/1LLTLV17rAy2x77KUaWQhO-3AxZ_4zk9hTKhBmhTbmgo/edit?usp=sharing)
 #### Presentation Link:
 (https://docs.google.com/presentation/d/11YCs6hIgEbVkeRFYyy46blIJzk7D_BbVhQf2f1hZF8Y/edit?usp=sharing)
+#### Google Colab Link:
+(https://drive.google.com/file/d/1MdZ9wweqhiJqBDP1svXPEVFXSnRVzqYG/view?usp=sharing)
 ## Project Description:
 
 From Amazon, Microsoft, and Google to Wayfair, the technology industry is currently shaken by massive layoffs since mid-2022, we are using this data to gain insights on technology industry trends to make informed decisions for our career or business.
